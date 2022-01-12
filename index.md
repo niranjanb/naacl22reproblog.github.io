@@ -49,7 +49,7 @@ See our **2 minute** [video]() for a quick introduction.
 - [What resources and support are available?](#what-resources-and-support-are-available)
 - [What restrictions and considerations apply to the submitted systems?](#what-restrictions-and-considerations-apply-to-the-submitted-systems)
 - [Other FAQ](#faq)
-- [Contact](#contact)
+- [Committee](#committee)
 
 ## Why do we need this track?
 
@@ -89,7 +89,7 @@ The badging process will involve the following steps:
 
 The NAACL paper acceptance notification emails will contain a link to a form through which authors can apply for the reproducibility badges.
 
-### 2. Dockerization Support and Office Hours ((ADD DATE)
+### 2. Dockerization Support and Office Hours (ADD DATE)
 
 Through out the submission window, we will host a email discussion form and hold **weekly???** office hours to help with the dockerization. 
 
@@ -174,4 +174,12 @@ A: Yes, we will have an “office hours” where volunteers will help debug on [
 
 Q: What criteria willHow will the "Most Reproducible" 
 
+
+## Committee
+1. Daniel Deutsch, UPenn
+2. Yash Lal, Stony Brook University
+3. Annie Louis, Google
+3. Pete Walsh, Allen Institute for Artificial Intelligence
+4. Jesse Dodge, Allen Institute for Artificial Intelligence
+6. Niranjan Balasubramanian, Stony Brook University
 
