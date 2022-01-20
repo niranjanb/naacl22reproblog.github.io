@@ -32,12 +32,26 @@ This track introduces **a badge system** to formalize expectations around reprod
 
 **TLDR;** After notification of acceptance and before the camera ready is due authors will have the option to earn up to three reproducibility “badges” by 1) providing a link to code, 2) providing a link to a trained model, and 3) participating in a verification process where a trained model will replicate some result from the paper. 
 
-See our **2 minute** [video]() for a quick introduction. 
+See our **1 minute** [video]() for a quick introduction. 
+
+## What are these reproducibility badges?
+
+The papers accepted to the NAACL conference can apply for three types of badges.
+
+**1) Open-Source Code Badge**: Authors submit a link to code. The code itself will not be run by reviewers (though it may be visually checked), so it is up to the authors to provide appropriate documentation. We recommend authors check the PapersWithCode code completeness checklist [here](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501).
+
+**2) Trained Model Badge**: Authors submit a link to download a trained model. Similar to the Open-Source Code Badge, the model will not be run by reviewers, though other aspects (e.g. size on disk) will be checked to confirm that the provided link works.
+
+**3) Reproducible Results Badge**: Authors verify that their model replicates a result they specify from their paper. Authors will package a trained model into a Docker container and submit the container to a server where it will be executed automatically. The server will execute the container and verify that its output matches a result from the author's paper. In addition to detailed guidelines and materials, the track will also provide [compute resources, a discussion forum, and office hours](#what-resources-and-support-are-available) to facilitate this. Thanks to our sponsors [Allen Institute for AI](https://allenai.org/) and [Google](https://www.google.com/) for providing resources.
+
+
+The primary goals of these three badges are to formalize how authors release code and trained models, and to make it easier for other researchers to find and use them. These badges build on the suggested [badges](https://www.acm.org/publications/policies/artifact-review-badging) from the ACM. The first two badges are types of “Artifact Available” badges which indicate that authors make some (unverified) materials available, and the third is a “Results Replicated” badge also meant to provide a working runtime environment so future researchers can easily build on or compare against the published work. 
+
 
 
 ## Important Dates
-- ** Submission Window ** --
-- ** Badging Acceptance Notification ** -- 
+- Submission Window Begins: April 7th, 2022
+- Badging Acceptance Notification: May 3, 2022
 
 
 ## Why do we need this track?
@@ -54,21 +68,6 @@ The main benefit to authors is in making their work reproducible in a way that w
 - **Spotlight Badged Papers:** NAACL will highlight badged papers in various material produced as part of the conference  (e.g. a separate page listing papers with badges).
 - **Best Reproducibility Track Paper Awards:** issue best reproducibility track paper awards.
 
-## What are these reproducibility badges?
-
-The papers accepted to the NAACL conference can apply for three types of badges.
-
-**1) Open-Source Code Badge**: Authors submit a link to code. The code itself will not be run by reviewers (though it may be visually checked), so it is up to the authors to provide appropriate documentation. If authors participate in Badge 3, we recommend authors include the dockerfile in their repository. PapersWithCode has a code completeness checklist [here](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501).
-
-**2) Trained Model Badge**: Authors submit a link to download a trained model. Similar to Badge 1, the model will not be run by reviewers, though other aspects (e.g. size on disk) will be checked to confirm that the provided link works.
-
-**3) Reproducible Results Badge**: Authors verify that their model replicates a result they specify from their paper. They will package their model (typically one that has already been trained) along with a replication test script into a Docker container using our [instructions]() and upload it to **WHERE???**. The server will execute the test script in the container and verify that its output matches the key result that the authors provide at the time of submission.
-
-
-In addition to detailed guidelines and materials, the track will also provide [compute resources, a discussion forum, and office hours](#what-resources-and-support-are-available) to facilitate this. Thanks to our sponsors [Allen Institute for AI](https://allenai.org/) and [Google](https://www.google.com/) for providing resources.
-
-
-The primary goals of these three badges is to formalize how authors release code and trained models, and to make it easier for other researchers to find and use them. These badges build on the suggested [badges](https://www.acm.org/publications/policies/artifact-review-badging) from the ACM. The first two badges are types of “Artifact Available” badges which indicate that authors make some (unverified) materials available, and the third is a “Results Replicated” badge also meant to provide a working runtime environment so future researchers can easily build on or compare against the published work. 
 
 ## What is the process and timeline for participating? (Group)
 
