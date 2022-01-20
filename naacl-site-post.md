@@ -40,17 +40,6 @@ See our **2 minute** [video]() for a quick introduction.
 - ** Badging Acceptance Notification ** -- 
 
 
-# Outline
-
-- [Why do we need this track?](#why-do-we-need-this-track) 
-- [What is the benefit to authors?](#what-is-the-benefit-to-authors) 
-- [What are these reproducibility badges?](#what-are-these-reproducibility-badges)
-- [What is the process and timeline for participating?](#what-is-the-process-and-timeline-for-participating)
-- [What resources and support are available?](#what-resources-and-support-are-available)
-- [What restrictions and considerations apply to the submitted systems?](#what-restrictions-and-considerations-apply-to-the-submitted-systems)
-- [Other FAQ](#faq)
-- [Committee](#committee)
-
 ## Why do we need this track?
 
 Our progress as a scientific discipline rests on the reproducibility of our scientific claims. Sharing code and trained models facilitates comparisons against previous work, and gives starting implementations for new research to build on. Furthermore, 
