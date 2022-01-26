@@ -96,8 +96,8 @@ A: No. This process will take place after notification of acceptance, so it will
 
 
 ## Committee
-1. Daniel Deutsch, UPenn
-2. Yash Lal, Stony Brook University
+1. Daniel Deutsch, University of Pennsylvania
+2. Yash Kumar Lal, Stony Brook University
 3. Annie Louis, Google
 3. Pete Walsh, Allen Institute for Artificial Intelligence
 4. Jesse Dodge, Allen Institute for Artificial Intelligence
