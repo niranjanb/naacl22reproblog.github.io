@@ -32,8 +32,6 @@ This track introduces **a badge system** to formalize expectations around reprod
 
 **TLDR;** After notification of acceptance and before the camera ready is due authors will have the option to earn up to three reproducibility “badges” by 1) providing a link to code, 2) providing a link to a trained model, and 3) participating in a verification process where a trained model will replicate some result from the paper. 
 
-See our **1 minute** [video]() for a quick introduction. 
-
 ## What are these reproducibility badges?
 
 The papers accepted to the NAACL conference can apply for three types of badges.
