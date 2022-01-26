@@ -48,9 +48,9 @@ The primary goals of these three badges are to formalize how authors release cod
 
 
 ## Important Dates
-- Submission Window Begins: April 7th, 2022
-- Submission Window Ends: May 3, 2022
-- Badge Notification Date: May 13, 2022
+- Submission Window Begins Upon Acceptance Notification: April 7th, 2022
+- Submission Window Ends When Camera Ready is Due: May 3, 2022
+- Badge Notification Date 10 Days After Camera Ready Due: May 13, 2022
 
 
 ## Why do we need this track?
