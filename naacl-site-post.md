@@ -60,10 +60,7 @@ with the rapid rise in computational cost of our experiments, releasing trained 
 
 ## What is the benefit to authors?
 
-The main benefit to authors is in making their work reproducible in a way that will enable broader adoption of their work. In addition, NAACL will highlight the papers that successfully participated in the track via the following:
-
-- **Badges:** Assigning badges to these papers in  the conference proceedings
-- **Spotlight Badged Papers:** NAACL will highlight badged papers in various material produced as part of the conference  (e.g. a separate page listing papers with badges).
+The main benefit to authors is in making their work reproducible in a way that will enable broader adoption of their work. In addition, NAACL will highlight the papers that successfully participated in the track via highlighting badged papers in a special section of the website, through promotion online and during the conference, and other similar avenues.
 
 ## Details coming soon
 
